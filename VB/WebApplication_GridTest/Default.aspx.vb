@@ -1,7 +1,6 @@
 Imports Microsoft.VisualBasic
 Imports System
-Imports DevExpress.Web.ASPxGridView
-Imports DevExpress.Web.ASPxEditors
+Imports DevExpress.Web
 Imports DevExpress.Web.Data
 
 Namespace WebApplication_GridTest

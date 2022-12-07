@@ -1,6 +1,5 @@
 ﻿using System;
-using DevExpress.Web.ASPxGridView;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 using DevExpress.Web.Data;
 
 namespace WebApplication_GridTest {

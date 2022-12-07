@@ -31,6 +31,6 @@ Namespace WebApplication_GridTest
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxMenu1 As Global.DevExpress.Web.ASPxMenu.ASPxMenu
+		Protected ASPxMenu1 As Global.DevExpress.Web.ASPxMenu
 	End Class
 End Namespace

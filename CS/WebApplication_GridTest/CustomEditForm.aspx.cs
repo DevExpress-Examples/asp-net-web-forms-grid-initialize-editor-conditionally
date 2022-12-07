@@ -1,5 +1,4 @@
-﻿using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxGridView;
+﻿using DevExpress.Web;
 using DevExpress.Web.Data;
 using System;
 

@@ -30,7 +30,7 @@ Namespace WebApplication_GridTest
         '''Auto-generated field.
         '''To modify move field declaration from designer file to code-behind file.
         '''</remarks>
-        Protected WithEvents ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+        Protected WithEvents ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
         '''<summary>
         '''ObjectDataSource1 control.
