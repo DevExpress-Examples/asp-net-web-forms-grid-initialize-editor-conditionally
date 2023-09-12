@@ -6,7 +6,7 @@
 
 # Grid for ASP.NET Web Forms - How to initialize an Edit Form editor based on a value of another column
 
-This example demonstrates how to initialize an editor in grid edit form conditionally based on a value of another column. To implement this functionality create a custom GridViewDataColumn.EditItemTemplate or GridViewTemplates.EditForm template.
+This example demonstrates how to initialize an editor in grid edit form conditionally based on a value of another column. To implement this functionality create a custom [GridViewDataColumn.EditItemTemplate](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewDataColumn.EditItemTemplate) or [GridViewTemplates.EditForm](https://docs.devexpress.com/AspNet/DevExpress.Web.GridViewTemplates.EditForm) template.
 
 ## Implementation Details
 
