@@ -16,16 +16,12 @@
             KeyFieldName="Id" OnInit="ASPxGridView1_Init" OnCustomColumnDisplayText="ASPxGridView1_CustomColumnDisplayText"
             OnRowUpdating="ASPxGridView1_RowUpdating">
             <Columns>
-                <dx:GridViewCommandColumn VisibleIndex="0">
-                    <EditButton Visible="True">
-                    </EditButton>
+                <dx:GridViewCommandColumn >
+                    <EditButton Visible="True" />
                 </dx:GridViewCommandColumn>
-                <dx:GridViewDataTextColumn FieldName="Id" ReadOnly="true" VisibleIndex="1">
-                </dx:GridViewDataTextColumn>
-                <dx:GridViewDataTextColumn FieldName="Type" VisibleIndex="2">
-                </dx:GridViewDataTextColumn>
-                <dx:GridViewDataTextColumn FieldName="DataValue" VisibleIndex="3">
-                </dx:GridViewDataTextColumn>
+                <dx:GridViewDataTextColumn FieldName="Id" ReadOnly="true" />
+                <dx:GridViewDataTextColumn FieldName="Type" />
+                <dx:GridViewDataTextColumn FieldName="DataValue" />
             </Columns>
             <SettingsEditing Mode="EditForm" />
         </dx:ASPxGridView>
