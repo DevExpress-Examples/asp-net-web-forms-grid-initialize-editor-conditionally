@@ -16,15 +16,11 @@
             OnRowUpdating="ASPxGridView1_RowUpdating">
             <Columns>
                 <dx:GridViewCommandColumn VisibleIndex="0">
-                    <EditButton Visible="True">
-                    </EditButton>
+                    <EditButton Visible="True" />
                 </dx:GridViewCommandColumn>
-                <dx:GridViewDataTextColumn FieldName="Id" ReadOnly="true" VisibleIndex="1">
-                </dx:GridViewDataTextColumn>
-                <dx:GridViewDataTextColumn FieldName="Type" ReadOnly="true" VisibleIndex="2">
-                </dx:GridViewDataTextColumn>
-                <dx:GridViewDataTextColumn FieldName="DataValue" VisibleIndex="3">
-                </dx:GridViewDataTextColumn>
+                <dx:GridViewDataTextColumn FieldName="Id" ReadOnly="true" />
+                <dx:GridViewDataTextColumn FieldName="Type" ReadOnly="true" />
+                <dx:GridViewDataTextColumn FieldName="DataValue" />
             </Columns>
             <SettingsEditing Mode="EditForm" />
         </dx:ASPxGridView>
