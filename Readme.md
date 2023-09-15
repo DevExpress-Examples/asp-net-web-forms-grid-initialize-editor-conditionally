@@ -27,9 +27,9 @@ Follow the steps below to implement this functionality:
 
 ## Files to Review
 
-* [CustomEditForm.aspx](./CS/WebApplication_GridTest/CustomEditForm.aspx)
-* [CustomEditForm.aspx.cs](./CS/WebApplication_GridTest/CustomEditForm.aspx.cs)
-* [CustomEditItem.aspx](./CS/WebApplication_GridTest/CustomEditItem.aspx)
-* [CustomEditItem.aspx.cs](./CS/WebApplication_GridTest/CustomEditItem.aspx.cs)
-* [CustomEditFormTemplate.cs](./CS/WebApplication_GridTest/Templates/CustomEditFormTemplate.cs)
-* [CustomEditItemTemplate.cs](./CS/WebApplication_GridTest/Templates/CustomEditItemTemplate.cs)
+* [CustomEditForm.aspx](./CS/WebApplication_Grid/CustomEditForm.aspx)
+* [CustomEditForm.aspx.cs](./CS/WebApplication_Grid/CustomEditForm.aspx.cs)
+* [CustomEditItem.aspx](./CS/WebApplication_Grid/CustomEditItem.aspx)
+* [CustomEditItem.aspx.cs](./CS/WebApplication_Grid/CustomEditItem.aspx.cs)
+* [CustomEditFormTemplate.cs](./CS/WebApplication_Grid/Templates/CustomEditFormTemplate.cs)
+* [CustomEditItemTemplate.cs](./CS/WebApplication_Grid/Templates/CustomEditItemTemplate.cs)
