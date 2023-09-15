@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CustomEditItem.aspx.cs" Inherits="WebApplication_GridTest.CustomEditItem" %>
 
-<%@ Register Assembly="DevExpress.Web.v13.1, Version=13.1.14.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
+<%@ Register Assembly="DevExpress.Web.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 
@@ -15,9 +15,7 @@
             KeyFieldName="Id" OnInit="ASPxGridView1_Init" OnCustomColumnDisplayText="ASPxGridView1_CustomColumnDisplayText"
             OnRowUpdating="ASPxGridView1_RowUpdating">
             <Columns>
-                <dx:GridViewCommandColumn VisibleIndex="0">
-                    <EditButton Visible="True" />
-                </dx:GridViewCommandColumn>
+                <dx:GridViewCommandColumn ShowEditButton="true" />
                 <dx:GridViewDataTextColumn FieldName="Id" ReadOnly="true" />
                 <dx:GridViewDataTextColumn FieldName="Type" ReadOnly="true" />
                 <dx:GridViewDataTextColumn FieldName="DataValue" />
