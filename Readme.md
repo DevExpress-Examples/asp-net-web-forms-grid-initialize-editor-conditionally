@@ -8,6 +8,8 @@
 
 This example demonstrates how to initialize an editor in grid edit form conditionally based on a value of another column.
 
+![Grid with a combobox in the edit form](grid-edit-form.png)
+
 ## Implementation Details
 
 Follow the steps below to implement this functionality:
