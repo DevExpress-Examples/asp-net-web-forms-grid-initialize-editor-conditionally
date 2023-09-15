@@ -27,9 +27,9 @@ Follow the steps below to implement this functionality:
 
 ## Files to Review
 
-* [CustomEditForm.aspx](./CS/WebApplication_GridTest/CustomEditForm.aspx) (VB: [CustomEditForm.aspx](./VB/WebApplication_GridTest/CustomEditForm.aspx))
-* [CustomEditForm.aspx.cs](./CS/WebApplication_GridTest/CustomEditForm.aspx.cs) (VB: [CustomEditForm.aspx.vb](./VB/WebApplication_GridTest/CustomEditForm.aspx.vb))
-* [CustomEditItem.aspx](./CS/WebApplication_GridTest/CustomEditItem.aspx) (VB: [CustomEditItem.aspx](./VB/WebApplication_GridTest/CustomEditItem.aspx))
-* [CustomEditItem.aspx.cs](./CS/WebApplication_GridTest/CustomEditItem.aspx.cs) (VB: [CustomEditItem.aspx.vb](./VB/WebApplication_GridTest/CustomEditItem.aspx.vb))
-* [CustomEditFormTemplate.cs](./CS/WebApplication_GridTest/Templates/CustomEditFormTemplate.cs) (VB: [CustomEditFormTemplate.vb](./VB/WebApplication_GridTest/Templates/CustomEditFormTemplate.vb))
-* [CustomEditItemTemplate.cs](./CS/WebApplication_GridTest/Templates/CustomEditItemTemplate.cs) (VB: [CustomEditItemTemplate.vb](./VB/WebApplication_GridTest/Templates/CustomEditItemTemplate.vb))
+* [CustomEditForm.aspx](./CS/WebApplication_GridTest/CustomEditForm.aspx)
+* [CustomEditForm.aspx.cs](./CS/WebApplication_GridTest/CustomEditForm.aspx.cs)
+* [CustomEditItem.aspx](./CS/WebApplication_GridTest/CustomEditItem.aspx)
+* [CustomEditItem.aspx.cs](./CS/WebApplication_GridTest/CustomEditItem.aspx.cs)
+* [CustomEditFormTemplate.cs](./CS/WebApplication_GridTest/Templates/CustomEditFormTemplate.cs)
+* [CustomEditItemTemplate.cs](./CS/WebApplication_GridTest/Templates/CustomEditItemTemplate.cs)
