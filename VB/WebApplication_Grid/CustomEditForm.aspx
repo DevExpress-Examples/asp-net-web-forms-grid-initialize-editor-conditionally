@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CustomEditForm.aspx.cs" Inherits="WebApplication_GridTest.CustomEditForm" %>
+<%@ Page Language="VB" AutoEventWireup="true" CodeBehind="CustomEditForm.aspx.vb" Inherits="WebApplication_GridTest.CustomEditForm" %>
 
 <%@ Register Assembly="DevExpress.Web.v22.2, Version=22.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web" TagPrefix="dx" %>

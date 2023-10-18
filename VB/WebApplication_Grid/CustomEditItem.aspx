@@ -1,11 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CustomEditForm.aspx.cs" Inherits="WebApplication_GridTest.CustomEditForm" %>
+<%@ Page Language="VB" AutoEventWireup="true" CodeBehind="CustomEditItem.aspx.vb" Inherits="WebApplication_GridTest.CustomEditItem" %>
 
 <%@ Register Assembly="DevExpress.Web.v22.2, Version=22.2.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a"
     Namespace="DevExpress.Web" TagPrefix="dx" %>
 
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
@@ -18,7 +17,7 @@
             <Columns>
                 <dx:GridViewCommandColumn ShowEditButton="true" />
                 <dx:GridViewDataTextColumn FieldName="Id" ReadOnly="true" />
-                <dx:GridViewDataTextColumn FieldName="Type" />
+                <dx:GridViewDataTextColumn FieldName="Type" ReadOnly="true" />
                 <dx:GridViewDataTextColumn FieldName="DataValue" />
             </Columns>
             <SettingsEditing Mode="EditForm" />
