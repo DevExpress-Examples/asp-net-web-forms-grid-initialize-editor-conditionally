@@ -32,7 +32,7 @@ Follow the steps below to implement this functionality:
 * [CustomEditFormTemplate.cs](./CS/WebApplication_Grid/Templates/CustomEditFormTemplate.cs)
 * [CustomEditItemTemplate.cs](./CS/WebApplication_Grid/Templates/CustomEditItemTemplate.cs)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-initialize-editor-conditionally&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-grid-initialize-editor-conditionally&~~~was_helpful=no)
 
